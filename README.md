@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# CodePen Clone Project 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a clone of CodePen, a popular online code editor and front-end web development platform. It allows users to write HTML, CSS, and JavaScript code in real-time and see the results instantly.
 
-## Available Scripts
+## Features 🌟
 
-In the project directory, you can run:
+- Real-time HTML, CSS, and JavaScript code editor.
+- Split view to see code and output side by side.
 
-### `npm start`
+## Technologies Used 💻
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js: A JavaScript library for building user interfaces.
+- HTML5 & CSS3: Markup and styling for the application.
+- CodeMirror: A versatile text editor implemented in JavaScript for the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshots 📷
 
-### `npm test`
+<!-- Include screenshots of your application here -->
+![image](https://github.com/KiranNegii/Codepen-clone/assets/163193047/5759881b-b3ce-4c64-9fd3-56ff3948f0c8)
+![image](https://github.com/KiranNegii/Codepen-clone/assets/163193047/481213bd-b4bf-446c-a86b-5cb361c8ce11)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Getting Started 🚀
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to get the CodePen Clone project up and running on your local machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/codepen-clone.git
+2. Navigate to the project directory:
+  ```bash
+  cd codepen-clone
+3. Install dependencies:
+  ```bash
+  npm install
+4. Run the development server:
+  ```bash
+  npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Open your browser and go to http://localhost:3000 to use the CodePen Clone.
